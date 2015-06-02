@@ -1,0 +1,3 @@
+# olsen
+#build
+gradle jettyRunWar
